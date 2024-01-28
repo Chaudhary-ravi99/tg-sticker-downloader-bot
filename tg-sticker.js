@@ -1,4 +1,4 @@
-const TOKEN = "YOUR_TOKEN_HERE";
+const TOKEN = "6761878212:AAG56yYdLxlulBh0m3CyAqHk4xH-oUdk2CY";
 const TelegramBot = require("tgfancy");
 const bot = new TelegramBot(TOKEN, {polling: true});
 const sharp = require("sharp")
